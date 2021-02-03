@@ -16,7 +16,9 @@ or install vsix from file [KRF_Template_Installer.zip]
 
 Add KRFCommon nuget repository
 
+
 *you can add nuget.config file to solution root or add to your user for use in all projects on file bellow
+
 
 
 C:\Users\[your_username]\AppData\Roaming\NuGet\NuGet.Config

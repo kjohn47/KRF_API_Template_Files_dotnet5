@@ -7,8 +7,8 @@
 0 -
 
 Add template to user templates folder (copy zip file [KRFTemplateApi.zip] to location bellow)
-C:\Users\[your_username]\Documents\Visual Studio 2019\Templates\ProjectTemplates
 
+C:\Users\[your_username]\Documents\Visual Studio 2019\Templates\ProjectTemplates
 
 or install vsix from file [KRF_Template_Installer.zip]
 
@@ -16,16 +16,11 @@ or install vsix from file [KRF_Template_Installer.zip]
 
 Add KRFCommon nuget repository
 
-
 *you can add nuget.config file to solution root or add to your user for use in all projects on file bellow
-
-
 
 C:\Users\[your_username]\AppData\Roaming\NuGet\NuGet.Config
 
-
 check file nuget.config
-
 
 2 -
 

@@ -1,0 +1,1 @@
+copy this files to solution root and delete folder after

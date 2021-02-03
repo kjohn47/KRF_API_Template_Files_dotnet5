@@ -1,6 +1,7 @@
 *Important:
 
 -> All files for template are in folder [Solution Files]
+-> When starting a new project from template, it is recomended to have Place Solution and Project in same directory selected
 
 0 -
 Add template to user templates folder (copy zip file [KRFTemplateApi.zip] to location bellow)

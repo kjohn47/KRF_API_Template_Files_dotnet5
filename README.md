@@ -15,6 +15,9 @@ C:\Users\[your_username]\Documents\Visual Studio 2019\Templates\ItemTemplates\KR
 
 ----- > or install vsix from file [KRF_Template_Installer_Version.zip]
 
+Import editor settings if you desire to use my codeStyle (VS2019_CSharpEditorSettings.editorconfig) 
+
+
 1 -
 
 Add KRFCommon nuget repository

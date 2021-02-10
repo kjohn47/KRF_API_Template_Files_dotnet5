@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" ?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="KRFAPITemplate.86cc22f8-7d0c-4a8d-82da-7822cb4f690d" Version="1.2" Language="en-US" Publisher="João Morgado" />
+        <Identity Id="KRFAPITemplate.86cc22f8-7d0c-4a8d-82da-7822cb4f690d" Version="1.3" Language="en-US" Publisher="João Morgado" />
         <DisplayName>KRF API Template</DisplayName>
         <Description xml:space="preserve">KRF Api Template</Description>
     </Metadata>
@@ -28,6 +28,6 @@
         <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="File" Path="ItemTemplates" d:TargetPath="ItemTemplates\KRF\KRF_QueryHandler_V1_0.zip" />
         <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="File" Path="ItemTemplates" d:TargetPath="ItemTemplates\KRF\KRF_QueryRequest_V1_0.zip" />
         <Asset Type="Microsoft.VisualStudio.ItemTemplate" d:Source="File" Path="ItemTemplates" d:TargetPath="ItemTemplates\KRF\KRF_QueryResponse_V1_0.zip" />
-        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\CSharp\KRFTemplateApi_V1_2.zip" />
+        <Asset Type="Microsoft.VisualStudio.ProjectTemplate" d:Source="File" Path="ProjectTemplates" d:TargetPath="ProjectTemplates\CSharp\KRFTemplateApi_V1_3.zip" />
     </Assets>
 </PackageManifest>
